@@ -1,4 +1,4 @@
 # YelpCamp
 YelpCamp app
 
-A node express app for uploading, rating, and commenting on campsites.
+Yelp for campsites - an Express app. 
