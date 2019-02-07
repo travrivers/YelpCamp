@@ -1,4 +1,4 @@
 # YelpCamp
-YelpCamp app
+A NodeJS Web App
 
-Yelp for campsites - an Express app. 
+Yelp for campsites.
